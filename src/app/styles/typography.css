@@ -1,0 +1,952 @@
+/* Typography tokens generados automáticamente */
+
+.display-xl {
+  font-family: "Plus Jakarta Sans", sans-serif;
+  font-weight: 700;
+  font-size: 44px;
+  line-height: 52px;
+}
+
+@media (min-width: var(--breakpoint-tb)) {
+  .display-xl {
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 60px;
+  }
+}
+
+@media (min-width: var(--breakpoint-dk)) {
+  .display-xl {
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-weight: 700;
+    font-size: 62px;
+    line-height: 68px;
+  }
+}
+
+.display-lg {
+  font-family: "Plus Jakarta Sans", sans-serif;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 52px;
+}
+
+@media (min-width: var(--breakpoint-tb)) {
+  .display-lg {
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-weight: 700;
+    font-size: 44px;
+    line-height: 60px;
+  }
+}
+
+@media (min-width: var(--breakpoint-dk)) {
+  .display-lg {
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 68px;
+  }
+}
+
+.display-md {
+  font-family: "Plus Jakarta Sans", sans-serif;
+  font-weight: 700;
+  font-size: 34px;
+  line-height: 40px;
+}
+
+@media (min-width: var(--breakpoint-tb)) {
+  .display-md {
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-weight: 700;
+    font-size: 35px;
+    line-height: 40px;
+  }
+}
+
+@media (min-width: var(--breakpoint-dk)) {
+  .display-md {
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-weight: 700;
+    font-size: 38px;
+    line-height: 48px;
+  }
+}
+
+.display-sm {
+  font-family: "Plus Jakarta Sans", sans-serif;
+  font-weight: 700;
+  font-size: 31px;
+  line-height: 36px;
+}
+
+@media (min-width: var(--breakpoint-tb)) {
+  .display-sm {
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-weight: 700;
+    font-size: 33px;
+    line-height: 44px;
+  }
+}
+
+@media (min-width: var(--breakpoint-dk)) {
+  .display-sm {
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-weight: 700;
+    font-size: 34px;
+    line-height: 48px;
+  }
+}
+
+.heading-xl-b {
+  font-family: "Plus Jakarta Sans", sans-serif;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 30px;
+}
+
+@media (min-width: var(--breakpoint-tb)) {
+  .heading-xl-b {
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 32px;
+  }
+}
+
+@media (min-width: var(--breakpoint-dk)) {
+  .heading-xl-b {
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 36px;
+  }
+}
+
+.heading-lg-b {
+  font-family: "Plus Jakarta Sans", sans-serif;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 28px;
+}
+
+@media (min-width: var(--breakpoint-tb)) {
+  .heading-lg-b {
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 28px;
+  }
+}
+
+@media (min-width: var(--breakpoint-dk)) {
+  .heading-lg-b {
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 32px;
+  }
+}
+
+.heading-lg-sb {
+  font-family: "Plus Jakarta Sans", sans-serif;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 28px;
+}
+
+@media (min-width: var(--breakpoint-tb)) {
+  .heading-lg-sb {
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 28px;
+  }
+}
+
+@media (min-width: var(--breakpoint-dk)) {
+  .heading-lg-sb {
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 32px;
+  }
+}
+
+.heading-xl-sb {
+  font-family: "Plus Jakarta Sans", sans-serif;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 30px;
+}
+
+@media (min-width: var(--breakpoint-tb)) {
+  .heading-xl-sb {
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-weight: 600;
+    font-size: 26px;
+    line-height: 32px;
+  }
+}
+
+@media (min-width: var(--breakpoint-dk)) {
+  .heading-xl-sb {
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-weight: 600;
+    font-size: 28px;
+    line-height: 36px;
+  }
+}
+
+.heading-sm-b {
+  font-family: "Plus Jakarta Sans", sans-serif;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 24px;
+}
+
+@media (min-width: var(--breakpoint-tb)) {
+  .heading-sm-b {
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+  }
+}
+
+@media (min-width: var(--breakpoint-dk)) {
+  .heading-sm-b {
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 27px;
+  }
+}
+
+.heading-sm-sb {
+  font-family: "Plus Jakarta Sans", sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 24px;
+}
+
+@media (min-width: var(--breakpoint-tb)) {
+  .heading-sm-sb {
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+  }
+}
+
+@media (min-width: var(--breakpoint-dk)) {
+  .heading-sm-sb {
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 27px;
+  }
+}
+
+.heading-md-b {
+  font-family: "Plus Jakarta Sans", sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 26px;
+}
+
+@media (min-width: var(--breakpoint-tb)) {
+  .heading-md-b {
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-weight: 700;
+    font-size: 19px;
+    line-height: 27px;
+  }
+}
+
+@media (min-width: var(--breakpoint-dk)) {
+  .heading-md-b {
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 30px;
+  }
+}
+
+.heading-md-sb {
+  font-family: "Plus Jakarta Sans", sans-serif;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 26px;
+}
+
+@media (min-width: var(--breakpoint-tb)) {
+  .heading-md-sb {
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-weight: 600;
+    font-size: 19px;
+    line-height: 27px;
+  }
+}
+
+@media (min-width: var(--breakpoint-dk)) {
+  .heading-md-sb {
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 30px;
+  }
+}
+
+.heading-xs-b {
+  font-family: "Plus Jakarta Sans", sans-serif;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 21px;
+}
+
+@media (min-width: var(--breakpoint-tb)) {
+  .heading-xs-b {
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 21px;
+  }
+}
+
+@media (min-width: var(--breakpoint-dk)) {
+  .heading-xs-b {
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+  }
+}
+
+.heading-xs-sb {
+  font-family: "Plus Jakarta Sans", sans-serif;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 21px;
+}
+
+@media (min-width: var(--breakpoint-tb)) {
+  .heading-xs-sb {
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 21px;
+  }
+}
+
+@media (min-width: var(--breakpoint-dk)) {
+  .heading-xs-sb {
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+  }
+}
+
+.body-xl-b {
+  font-family: "Plus Jakarta Sans", sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 26px;
+}
+
+@media (min-width: var(--breakpoint-tb)) {
+  .body-xl-b {
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-weight: 700;
+    font-size: 19px;
+    line-height: 27px;
+  }
+}
+
+@media (min-width: var(--breakpoint-dk)) {
+  .body-xl-b {
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 30px;
+  }
+}
+
+.body-xl-sb {
+  font-family: "Plus Jakarta Sans", sans-serif;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 26px;
+}
+
+@media (min-width: var(--breakpoint-tb)) {
+  .body-xl-sb {
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-weight: 600;
+    font-size: 19px;
+    line-height: 27px;
+  }
+}
+
+@media (min-width: var(--breakpoint-dk)) {
+  .body-xl-sb {
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 30px;
+  }
+}
+
+.body-xl-m {
+  font-family: "Plus Jakarta Sans", sans-serif;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 26px;
+}
+
+@media (min-width: var(--breakpoint-tb)) {
+  .body-xl-m {
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-weight: 500;
+    font-size: 19px;
+    line-height: 27px;
+  }
+}
+
+@media (min-width: var(--breakpoint-dk)) {
+  .body-xl-m {
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 30px;
+  }
+}
+
+.body-xl-r {
+  font-family: "Plus Jakarta Sans", sans-serif;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 26px;
+}
+
+@media (min-width: var(--breakpoint-tb)) {
+  .body-xl-r {
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-weight: 400;
+    font-size: 19px;
+    line-height: 27px;
+  }
+}
+
+@media (min-width: var(--breakpoint-dk)) {
+  .body-xl-r {
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+  }
+}
+
+.body-lg-b {
+  font-family: "Plus Jakarta Sans", sans-serif;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 24px;
+}
+
+@media (min-width: var(--breakpoint-tb)) {
+  .body-lg-b {
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+  }
+}
+
+@media (min-width: var(--breakpoint-dk)) {
+  .body-lg-b {
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 27px;
+  }
+}
+
+.body-lg-sb {
+  font-family: "Plus Jakarta Sans", sans-serif;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 24px;
+}
+
+@media (min-width: var(--breakpoint-tb)) {
+  .body-lg-sb {
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+  }
+}
+
+@media (min-width: var(--breakpoint-dk)) {
+  .body-lg-sb {
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 27px;
+  }
+}
+
+.body-lg-m {
+  font-family: "Plus Jakarta Sans", sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+}
+
+@media (min-width: var(--breakpoint-tb)) {
+  .body-lg-m {
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+  }
+}
+
+@media (min-width: var(--breakpoint-dk)) {
+  .body-lg-m {
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 27px;
+  }
+}
+
+.body-lg-r {
+  font-family: "Plus Jakarta Sans", sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+}
+
+@media (min-width: var(--breakpoint-tb)) {
+  .body-lg-r {
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+  }
+}
+
+@media (min-width: var(--breakpoint-dk)) {
+  .body-lg-r {
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 27px;
+  }
+}
+
+.body-md-b {
+  font-family: "Plus Jakarta Sans", sans-serif;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 21px;
+}
+
+@media (min-width: var(--breakpoint-tb)) {
+  .body-md-b {
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 21px;
+  }
+}
+
+@media (min-width: var(--breakpoint-dk)) {
+  .body-md-b {
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+  }
+}
+
+.body-md-sb {
+  font-family: "Plus Jakarta Sans", sans-serif;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 21px;
+}
+
+@media (min-width: var(--breakpoint-tb)) {
+  .body-md-sb {
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 21px;
+  }
+}
+
+@media (min-width: var(--breakpoint-dk)) {
+  .body-md-sb {
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+  }
+}
+
+.body-md-m {
+  font-family: "Plus Jakarta Sans", sans-serif;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 21px;
+}
+
+@media (min-width: var(--breakpoint-tb)) {
+  .body-md-m {
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 21px;
+  }
+}
+
+@media (min-width: var(--breakpoint-dk)) {
+  .body-md-m {
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+  }
+}
+
+.body-md-r {
+  font-family: "Plus Jakarta Sans", sans-serif;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 21px;
+}
+
+@media (min-width: var(--breakpoint-tb)) {
+  .body-md-r {
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 21px;
+  }
+}
+
+@media (min-width: var(--breakpoint-dk)) {
+  .body-md-r {
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+  }
+}
+
+.body-sm-b {
+  font-family: "Plus Jakarta Sans", sans-serif;
+  font-weight: 700;
+  font-size: 12px;
+  line-height: 18px;
+}
+
+@media (min-width: var(--breakpoint-tb)) {
+  .body-sm-b {
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-weight: 700;
+    font-size: 13px;
+    line-height: 18px;
+  }
+}
+
+@media (min-width: var(--breakpoint-dk)) {
+  .body-sm-b {
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 21px;
+  }
+}
+
+.body-sm-m {
+  font-family: "Plus Jakarta Sans", sans-serif;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 18px;
+}
+
+@media (min-width: var(--breakpoint-tb)) {
+  .body-sm-m {
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 18px;
+  }
+}
+
+@media (min-width: var(--breakpoint-dk)) {
+  .body-sm-m {
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 21px;
+  }
+}
+
+.body-sm-sb {
+  font-family: "Plus Jakarta Sans", sans-serif;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 18px;
+}
+
+@media (min-width: var(--breakpoint-tb)) {
+  .body-sm-sb {
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-weight: 600;
+    font-size: 13px;
+    line-height: 18px;
+  }
+}
+
+@media (min-width: var(--breakpoint-dk)) {
+  .body-sm-sb {
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 21px;
+  }
+}
+
+.body-sm-r {
+  font-family: "Plus Jakarta Sans", sans-serif;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 18px;
+}
+
+@media (min-width: var(--breakpoint-tb)) {
+  .body-sm-r {
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 18px;
+  }
+}
+
+@media (min-width: var(--breakpoint-dk)) {
+  .body-sm-r {
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+  }
+}
+
+.body-xs-b {
+  font-family: "Plus Jakarta Sans", sans-serif;
+  font-weight: 700;
+  font-size: 10px;
+  line-height: 12px;
+}
+
+@media (min-width: var(--breakpoint-tb)) {
+  .body-xs-b {
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-weight: 700;
+    font-size: 11px;
+    line-height: 15px;
+  }
+}
+
+@media (min-width: var(--breakpoint-dk)) {
+  .body-xs-b {
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 18px;
+  }
+}
+
+.body-xs-m {
+  font-family: "Plus Jakarta Sans", sans-serif;
+  font-weight: 500;
+  font-size: 10px;
+  line-height: 12px;
+}
+
+@media (min-width: var(--breakpoint-tb)) {
+  .body-xs-m {
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-weight: 500;
+    font-size: 11px;
+    line-height: 15px;
+  }
+}
+
+@media (min-width: var(--breakpoint-dk)) {
+  .body-xs-m {
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 18px;
+  }
+}
+
+.body-xs-sb {
+  font-family: "Plus Jakarta Sans", sans-serif;
+  font-weight: 600;
+  font-size: 10px;
+  line-height: 12px;
+}
+
+@media (min-width: var(--breakpoint-tb)) {
+  .body-xs-sb {
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-weight: 600;
+    font-size: 11px;
+    line-height: 15px;
+  }
+}
+
+@media (min-width: var(--breakpoint-dk)) {
+  .body-xs-sb {
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 18px;
+  }
+}
+
+.body-xs-r {
+  font-family: "Plus Jakarta Sans", sans-serif;
+  font-weight: 400;
+  font-size: 10px;
+  line-height: 12px;
+}
+
+@media (min-width: var(--breakpoint-tb)) {
+  .body-xs-r {
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 15px;
+  }
+}
+
+@media (min-width: var(--breakpoint-dk)) {
+  .body-xs-r {
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 18px;
+  }
+}
+
+.body-xxs-b {
+  font-family: "Plus Jakarta Sans", sans-serif;
+  font-weight: 700;
+  font-size: 8px;
+  line-height: 12px;
+}
+
+@media (min-width: var(--breakpoint-tb)) {
+  .body-xxs-b {
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-weight: 700;
+    font-size: 9px;
+    line-height: 14px;
+  }
+}
+
+@media (min-width: var(--breakpoint-dk)) {
+  .body-xxs-b {
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-weight: 700;
+    font-size: 10px;
+    line-height: 16px;
+  }
+}
+
+.body-xxs-m {
+  font-family: "Plus Jakarta Sans", sans-serif;
+  font-weight: 500;
+  font-size: 8px;
+  line-height: 12px;
+}
+
+@media (min-width: var(--breakpoint-tb)) {
+  .body-xxs-m {
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-weight: 500;
+    font-size: 9px;
+    line-height: 14px;
+  }
+}
+
+@media (min-width: var(--breakpoint-dk)) {
+  .body-xxs-m {
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-weight: 500;
+    font-size: 10px;
+    line-height: 16px;
+  }
+}
+
+.body-xxs-sb {
+  font-family: "Plus Jakarta Sans", sans-serif;
+  font-weight: 600;
+  font-size: 8px;
+  line-height: 12px;
+}
+
+@media (min-width: var(--breakpoint-tb)) {
+  .body-xxs-sb {
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-weight: 600;
+    font-size: 9px;
+    line-height: 14px;
+  }
+}
+
+@media (min-width: var(--breakpoint-dk)) {
+  .body-xxs-sb {
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-weight: 600;
+    font-size: 10px;
+    line-height: 16px;
+  }
+}
+
+.body-xxs-r {
+  font-family: "Plus Jakarta Sans", sans-serif;
+  font-weight: 400;
+  font-size: 8px;
+  line-height: 12px;
+}
+
+@media (min-width: var(--breakpoint-tb)) {
+  .body-xxs-r {
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-weight: 400;
+    font-size: 9px;
+    line-height: 14px;
+  }
+}
+
+@media (min-width: var(--breakpoint-dk)) {
+  .body-xxs-r {
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 16px;
+  }
+}
+

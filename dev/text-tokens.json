@@ -1,0 +1,4569 @@
+{
+  "id": "VariableCollectionId:77:514",
+  "name": "Text Tokens",
+  "modes": { "77:7": "Mode 1" },
+  "variableIds": [
+    "VariableID:77:515",
+    "VariableID:77:599",
+    "VariableID:77:601",
+    "VariableID:77:602",
+    "VariableID:77:603",
+    "VariableID:77:604",
+    "VariableID:77:650",
+    "VariableID:77:651",
+    "VariableID:77:652",
+    "VariableID:77:653",
+    "VariableID:77:654",
+    "VariableID:77:655",
+    "VariableID:77:656",
+    "VariableID:77:657",
+    "VariableID:77:658",
+    "VariableID:77:659",
+    "VariableID:77:660",
+    "VariableID:77:661",
+    "VariableID:77:662",
+    "VariableID:77:663",
+    "VariableID:77:664",
+    "VariableID:77:665",
+    "VariableID:77:666",
+    "VariableID:77:667",
+    "VariableID:77:668",
+    "VariableID:77:692",
+    "VariableID:77:693",
+    "VariableID:77:694",
+    "VariableID:77:695",
+    "VariableID:77:696",
+    "VariableID:77:697",
+    "VariableID:77:669",
+    "VariableID:77:670",
+    "VariableID:77:671",
+    "VariableID:77:672",
+    "VariableID:77:673",
+    "VariableID:77:680",
+    "VariableID:77:681",
+    "VariableID:77:682",
+    "VariableID:77:683",
+    "VariableID:77:684",
+    "VariableID:77:685",
+    "VariableID:77:686",
+    "VariableID:77:687",
+    "VariableID:77:688",
+    "VariableID:77:689",
+    "VariableID:77:690",
+    "VariableID:77:691",
+    "VariableID:77:754",
+    "VariableID:77:755",
+    "VariableID:77:756",
+    "VariableID:77:757",
+    "VariableID:77:758",
+    "VariableID:77:759",
+    "VariableID:77:766",
+    "VariableID:77:767",
+    "VariableID:77:768",
+    "VariableID:77:769",
+    "VariableID:77:770",
+    "VariableID:77:771",
+    "VariableID:77:706",
+    "VariableID:77:712",
+    "VariableID:77:713",
+    "VariableID:77:714",
+    "VariableID:77:715",
+    "VariableID:77:716",
+    "VariableID:77:717",
+    "VariableID:77:707",
+    "VariableID:77:708",
+    "VariableID:77:709",
+    "VariableID:77:710",
+    "VariableID:77:711",
+    "VariableID:77:850",
+    "VariableID:77:851",
+    "VariableID:77:852",
+    "VariableID:77:853",
+    "VariableID:77:854",
+    "VariableID:77:855",
+    "VariableID:77:862",
+    "VariableID:77:863",
+    "VariableID:77:864",
+    "VariableID:77:865",
+    "VariableID:77:866",
+    "VariableID:77:867",
+    "VariableID:77:874",
+    "VariableID:77:875",
+    "VariableID:77:876",
+    "VariableID:77:877",
+    "VariableID:77:878",
+    "VariableID:77:879",
+    "VariableID:77:880",
+    "VariableID:77:881",
+    "VariableID:77:882",
+    "VariableID:77:883",
+    "VariableID:77:884",
+    "VariableID:77:885",
+    "VariableID:77:886",
+    "VariableID:77:887",
+    "VariableID:77:888",
+    "VariableID:77:889",
+    "VariableID:77:890",
+    "VariableID:77:891",
+    "VariableID:77:892",
+    "VariableID:77:893",
+    "VariableID:77:894",
+    "VariableID:77:895",
+    "VariableID:77:896",
+    "VariableID:77:897",
+    "VariableID:77:898",
+    "VariableID:77:899",
+    "VariableID:77:900",
+    "VariableID:77:901",
+    "VariableID:77:902",
+    "VariableID:77:903",
+    "VariableID:77:904",
+    "VariableID:77:905",
+    "VariableID:77:906",
+    "VariableID:77:907",
+    "VariableID:77:908",
+    "VariableID:77:909",
+    "VariableID:77:910",
+    "VariableID:77:911",
+    "VariableID:77:912",
+    "VariableID:77:913",
+    "VariableID:77:914",
+    "VariableID:77:915",
+    "VariableID:77:916",
+    "VariableID:77:917",
+    "VariableID:77:918",
+    "VariableID:77:919",
+    "VariableID:77:920",
+    "VariableID:77:921",
+    "VariableID:77:922",
+    "VariableID:77:923",
+    "VariableID:77:924",
+    "VariableID:77:925",
+    "VariableID:77:926",
+    "VariableID:77:927",
+    "VariableID:77:928",
+    "VariableID:77:929",
+    "VariableID:77:930",
+    "VariableID:77:931",
+    "VariableID:77:932",
+    "VariableID:77:933",
+    "VariableID:77:934",
+    "VariableID:77:935",
+    "VariableID:77:936",
+    "VariableID:77:937",
+    "VariableID:77:938",
+    "VariableID:77:939",
+    "VariableID:77:940",
+    "VariableID:77:941",
+    "VariableID:77:942",
+    "VariableID:77:943",
+    "VariableID:77:944",
+    "VariableID:77:945",
+    "VariableID:77:946",
+    "VariableID:77:947",
+    "VariableID:77:948",
+    "VariableID:77:949",
+    "VariableID:77:950",
+    "VariableID:77:951",
+    "VariableID:77:952",
+    "VariableID:77:953",
+    "VariableID:77:954",
+    "VariableID:77:955",
+    "VariableID:77:956",
+    "VariableID:77:957",
+    "VariableID:77:958",
+    "VariableID:77:959",
+    "VariableID:77:960",
+    "VariableID:77:961",
+    "VariableID:77:962",
+    "VariableID:77:963",
+    "VariableID:77:964",
+    "VariableID:77:965",
+    "VariableID:77:966",
+    "VariableID:77:967",
+    "VariableID:77:968",
+    "VariableID:77:969",
+    "VariableID:77:970",
+    "VariableID:77:971",
+    "VariableID:77:972",
+    "VariableID:77:973",
+    "VariableID:77:974",
+    "VariableID:77:975",
+    "VariableID:77:976",
+    "VariableID:77:977",
+    "VariableID:77:978",
+    "VariableID:77:979",
+    "VariableID:77:980",
+    "VariableID:77:981",
+    "VariableID:77:982",
+    "VariableID:77:983",
+    "VariableID:77:984",
+    "VariableID:77:985",
+    "VariableID:77:986",
+    "VariableID:77:987",
+    "VariableID:77:988",
+    "VariableID:77:989",
+    "VariableID:77:990",
+    "VariableID:77:991",
+    "VariableID:77:992",
+    "VariableID:77:993",
+    "VariableID:106:73",
+    "VariableID:106:74",
+    "VariableID:106:75",
+    "VariableID:106:76",
+    "VariableID:106:77",
+    "VariableID:106:78",
+    "VariableID:106:79",
+    "VariableID:106:80",
+    "VariableID:106:81",
+    "VariableID:106:82",
+    "VariableID:106:83",
+    "VariableID:106:84",
+    "VariableID:106:85",
+    "VariableID:106:86",
+    "VariableID:106:87",
+    "VariableID:106:88",
+    "VariableID:106:89",
+    "VariableID:106:90",
+    "VariableID:106:91",
+    "VariableID:106:92",
+    "VariableID:106:93",
+    "VariableID:106:94",
+    "VariableID:106:95",
+    "VariableID:106:96"
+  ],
+  "variables": [
+    {
+      "id": "VariableID:77:515",
+      "name": "Display/Display xl/Font Family",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:448" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": "Plus Jakarta Sans",
+          "alias": "VariableID:77:448",
+          "aliasName": "fontFamily/fontFamily"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:599",
+      "name": "Display/Display xl/Font Style",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:453" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": "Bold",
+          "alias": "VariableID:77:453",
+          "aliasName": "fontStyle/fontStyle b"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:601",
+      "name": "Display/Display xl/Font Size",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:470" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": 62,
+          "alias": "VariableID:77:470",
+          "aliasName": "fontSize/fontSize 14"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:602",
+      "name": "Display/Display xl/Letter Spacing",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:511" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": 0,
+          "alias": "VariableID:77:511",
+          "aliasName": "letterSpacing/letterSpacing"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:603",
+      "name": "Display/Display xl/Peragraph Spacing",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:512" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": 0,
+          "alias": "VariableID:77:512",
+          "aliasName": "paragraphSpacing/paragraphSpacing"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:604",
+      "name": "Display/Display xl/Line Height",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:598" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": 68,
+          "alias": "VariableID:77:598",
+          "aliasName": "lineHeight/lineHeight 11"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:650",
+      "name": "Display/Display lg/Font Family",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:448" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": "Plus Jakarta Sans",
+          "alias": "VariableID:77:448",
+          "aliasName": "fontFamily/fontFamily"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:651",
+      "name": "Display/Display lg/Font Style",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:453" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": "Bold",
+          "alias": "VariableID:77:453",
+          "aliasName": "fontStyle/fontStyle b"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:652",
+      "name": "Display/Display lg/Font Size",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:469" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": 48,
+          "alias": "VariableID:77:469",
+          "aliasName": "fontSize/fontSize 13"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:653",
+      "name": "Display/Display lg/Letter Spacing",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:511" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": 0,
+          "alias": "VariableID:77:511",
+          "aliasName": "letterSpacing/letterSpacing"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:654",
+      "name": "Display/Display lg/Peragraph Spacing",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:512" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": 0,
+          "alias": "VariableID:77:512",
+          "aliasName": "paragraphSpacing/paragraphSpacing"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:655",
+      "name": "Display/Display lg/Line Height",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:598" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": 68,
+          "alias": "VariableID:77:598",
+          "aliasName": "lineHeight/lineHeight 11"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:656",
+      "name": "Display/Display md/Font Family",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:448" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": "Plus Jakarta Sans",
+          "alias": "VariableID:77:448",
+          "aliasName": "fontFamily/fontFamily"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:657",
+      "name": "Display/Display md/Font Style",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:453" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": "Bold",
+          "alias": "VariableID:77:453",
+          "aliasName": "fontStyle/fontStyle b"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:658",
+      "name": "Display/Display md/Font Size",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:468" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": 38,
+          "alias": "VariableID:77:468",
+          "aliasName": "fontSize/fontSize 12"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:659",
+      "name": "Display/Display md/Letter Spacing",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:511" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": 0,
+          "alias": "VariableID:77:511",
+          "aliasName": "letterSpacing/letterSpacing"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:660",
+      "name": "Display/Display md/Peragraph Spacing",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:512" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": 0,
+          "alias": "VariableID:77:512",
+          "aliasName": "paragraphSpacing/paragraphSpacing"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:661",
+      "name": "Display/Display md/Line Height",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:596" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": 48,
+          "alias": "VariableID:77:596",
+          "aliasName": "lineHeight/lineHeight 9"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:662",
+      "name": "Display/Display sm/Font Family",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:448" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": "Plus Jakarta Sans",
+          "alias": "VariableID:77:448",
+          "aliasName": "fontFamily/fontFamily"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:663",
+      "name": "Display/Display sm/Font Style",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:453" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": "Bold",
+          "alias": "VariableID:77:453",
+          "aliasName": "fontStyle/fontStyle b"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:664",
+      "name": "Display/Display sm/Font Size",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:467" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": 34,
+          "alias": "VariableID:77:467",
+          "aliasName": "fontSize/fontSize 11"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:665",
+      "name": "Display/Display sm/Letter Spacing",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:511" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": 0,
+          "alias": "VariableID:77:511",
+          "aliasName": "letterSpacing/letterSpacing"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:666",
+      "name": "Display/Display sm/Peragraph Spacing",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:512" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": 0,
+          "alias": "VariableID:77:512",
+          "aliasName": "paragraphSpacing/paragraphSpacing"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:667",
+      "name": "Display/Display sm/Line Height",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:595" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": 48,
+          "alias": "VariableID:77:595",
+          "aliasName": "lineHeight/lineHeight 8"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:668",
+      "name": "Heading/Heading xl (B)/Font Family",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:448" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": "Plus Jakarta Sans",
+          "alias": "VariableID:77:448",
+          "aliasName": "fontFamily/fontFamily"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:669",
+      "name": "Heading/Heading xl (B)/Font Style",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:453" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": "Bold",
+          "alias": "VariableID:77:453",
+          "aliasName": "fontStyle/fontStyle b"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:670",
+      "name": "Heading/Heading xl (B)/Font Size",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:465" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": 28,
+          "alias": "VariableID:77:465",
+          "aliasName": "fontSize/fontSize 9"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:671",
+      "name": "Heading/Heading xl (B)/Letter Spacing",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:511" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": 0,
+          "alias": "VariableID:77:511",
+          "aliasName": "letterSpacing/letterSpacing"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:672",
+      "name": "Heading/Heading xl (B)/Peragraph Spacing",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:512" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": 0,
+          "alias": "VariableID:77:512",
+          "aliasName": "paragraphSpacing/paragraphSpacing"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:673",
+      "name": "Heading/Heading xl (B)/Line Height",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:594" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": 36,
+          "alias": "VariableID:77:594",
+          "aliasName": "lineHeight/lineHeight 7"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:680",
+      "name": "Heading/Heading lg (B)/Font Family",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:448" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": "Plus Jakarta Sans",
+          "alias": "VariableID:77:448",
+          "aliasName": "fontFamily/fontFamily"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:681",
+      "name": "Heading/Heading lg (B)/Font Style",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:453" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": "Bold",
+          "alias": "VariableID:77:453",
+          "aliasName": "fontStyle/fontStyle b"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:682",
+      "name": "Heading/Heading lg (B)/Font Size",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:464" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": 24,
+          "alias": "VariableID:77:464",
+          "aliasName": "fontSize/fontSize 8"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:683",
+      "name": "Heading/Heading lg (B)/Letter Spacing",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:511" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": 0,
+          "alias": "VariableID:77:511",
+          "aliasName": "letterSpacing/letterSpacing"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:684",
+      "name": "Heading/Heading lg (B)/Peragraph Spacing",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:512" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": 0,
+          "alias": "VariableID:77:512",
+          "aliasName": "paragraphSpacing/paragraphSpacing"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:685",
+      "name": "Heading/Heading lg (B)/Line Height",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:593" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": 32,
+          "alias": "VariableID:77:593",
+          "aliasName": "lineHeight/lineHeight 6"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:686",
+      "name": "Heading/Heading lg (SB)/Font Family",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:448" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": "Plus Jakarta Sans",
+          "alias": "VariableID:77:448",
+          "aliasName": "fontFamily/fontFamily"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:687",
+      "name": "Heading/Heading lg (SB)/Font Style",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:452" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": "SemiBold",
+          "alias": "VariableID:77:452",
+          "aliasName": "fontStyle/fontStyle sb"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:688",
+      "name": "Heading/Heading lg (SB)/Font Size",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:464" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": 24,
+          "alias": "VariableID:77:464",
+          "aliasName": "fontSize/fontSize 8"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:689",
+      "name": "Heading/Heading lg (SB)/Letter Spacing",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:511" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": 0,
+          "alias": "VariableID:77:511",
+          "aliasName": "letterSpacing/letterSpacing"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:690",
+      "name": "Heading/Heading lg (SB)/Peragraph Spacing",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:512" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": 0,
+          "alias": "VariableID:77:512",
+          "aliasName": "paragraphSpacing/paragraphSpacing"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:691",
+      "name": "Heading/Heading lg (SB)/Line Height",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:593" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": 32,
+          "alias": "VariableID:77:593",
+          "aliasName": "lineHeight/lineHeight 6"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:692",
+      "name": "Heading/Heading xl (SB)/Font Family",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:448" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": "Plus Jakarta Sans",
+          "alias": "VariableID:77:448",
+          "aliasName": "fontFamily/fontFamily"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:693",
+      "name": "Heading/Heading xl (SB)/Font Style",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:452" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": "SemiBold",
+          "alias": "VariableID:77:452",
+          "aliasName": "fontStyle/fontStyle sb"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:694",
+      "name": "Heading/Heading xl (SB)/Font Size",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:465" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": 28,
+          "alias": "VariableID:77:465",
+          "aliasName": "fontSize/fontSize 9"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:695",
+      "name": "Heading/Heading xl (SB)/Letter Spacing",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:511" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": 0,
+          "alias": "VariableID:77:511",
+          "aliasName": "letterSpacing/letterSpacing"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:696",
+      "name": "Heading/Heading xl (SB)/Peragraph Spacing",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:512" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": 0,
+          "alias": "VariableID:77:512",
+          "aliasName": "paragraphSpacing/paragraphSpacing"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:697",
+      "name": "Heading/Heading xl (SB)/Line Height",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:594" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": 36,
+          "alias": "VariableID:77:594",
+          "aliasName": "lineHeight/lineHeight 7"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:706",
+      "name": "Heading/Heading sm (B)/Font Family",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:448" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": "Plus Jakarta Sans",
+          "alias": "VariableID:77:448",
+          "aliasName": "fontFamily/fontFamily"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:707",
+      "name": "Heading/Heading sm (B)/Font Style",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:453" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": "Bold",
+          "alias": "VariableID:77:453",
+          "aliasName": "fontStyle/fontStyle b"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:708",
+      "name": "Heading/Heading sm (B)/Font Size",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:462" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": 18,
+          "alias": "VariableID:77:462",
+          "aliasName": "fontSize/fontSize 6"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:709",
+      "name": "Heading/Heading sm (B)/Letter Spacing",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:511" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": 0,
+          "alias": "VariableID:77:511",
+          "aliasName": "letterSpacing/letterSpacing"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:710",
+      "name": "Heading/Heading sm (B)/Peragraph Spacing",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:512" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": 0,
+          "alias": "VariableID:77:512",
+          "aliasName": "paragraphSpacing/paragraphSpacing"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:711",
+      "name": "Heading/Heading sm (B)/Line Height",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:591" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": 27,
+          "alias": "VariableID:77:591",
+          "aliasName": "lineHeight/lineHeight 4"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:712",
+      "name": "Heading/Heading sm (SB)/Font Family",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:448" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": "Plus Jakarta Sans",
+          "alias": "VariableID:77:448",
+          "aliasName": "fontFamily/fontFamily"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:713",
+      "name": "Heading/Heading sm (SB)/Font Style",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:452" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": "SemiBold",
+          "alias": "VariableID:77:452",
+          "aliasName": "fontStyle/fontStyle sb"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:714",
+      "name": "Heading/Heading sm (SB)/Font Size",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:462" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": 18,
+          "alias": "VariableID:77:462",
+          "aliasName": "fontSize/fontSize 6"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:715",
+      "name": "Heading/Heading sm (SB)/Letter Spacing",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:511" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": 0,
+          "alias": "VariableID:77:511",
+          "aliasName": "letterSpacing/letterSpacing"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:716",
+      "name": "Heading/Heading sm (SB)/Peragraph Spacing",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:512" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": 0,
+          "alias": "VariableID:77:512",
+          "aliasName": "paragraphSpacing/paragraphSpacing"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:717",
+      "name": "Heading/Heading sm (SB)/Line Height",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:591" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": 27,
+          "alias": "VariableID:77:591",
+          "aliasName": "lineHeight/lineHeight 4"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:754",
+      "name": "Heading/Heading md (B)/Font Family",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:448" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": "Plus Jakarta Sans",
+          "alias": "VariableID:77:448",
+          "aliasName": "fontFamily/fontFamily"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:755",
+      "name": "Heading/Heading md (B)/Font Style",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:453" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": "Bold",
+          "alias": "VariableID:77:453",
+          "aliasName": "fontStyle/fontStyle b"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:756",
+      "name": "Heading/Heading md (B)/Font Size",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:463" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": 20,
+          "alias": "VariableID:77:463",
+          "aliasName": "fontSize/fontSize 7"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:757",
+      "name": "Heading/Heading md (B)/Letter Spacing",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:511" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": 0,
+          "alias": "VariableID:77:511",
+          "aliasName": "letterSpacing/letterSpacing"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:758",
+      "name": "Heading/Heading md (B)/Peragraph Spacing",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:512" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": 0,
+          "alias": "VariableID:77:512",
+          "aliasName": "paragraphSpacing/paragraphSpacing"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:759",
+      "name": "Heading/Heading md (B)/Line Height",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:592" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": 30,
+          "alias": "VariableID:77:592",
+          "aliasName": "lineHeight/lineHeight 5"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:766",
+      "name": "Heading/Heading md (SB)/Font Family",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:448" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": "Plus Jakarta Sans",
+          "alias": "VariableID:77:448",
+          "aliasName": "fontFamily/fontFamily"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:767",
+      "name": "Heading/Heading md (SB)/Font Style",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:452" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": "SemiBold",
+          "alias": "VariableID:77:452",
+          "aliasName": "fontStyle/fontStyle sb"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:768",
+      "name": "Heading/Heading md (SB)/Font Size",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:463" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": 20,
+          "alias": "VariableID:77:463",
+          "aliasName": "fontSize/fontSize 7"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:769",
+      "name": "Heading/Heading md (SB)/Letter Spacing",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:511" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": 0,
+          "alias": "VariableID:77:511",
+          "aliasName": "letterSpacing/letterSpacing"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:770",
+      "name": "Heading/Heading md (SB)/Peragraph Spacing",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:512" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": 0,
+          "alias": "VariableID:77:512",
+          "aliasName": "paragraphSpacing/paragraphSpacing"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:771",
+      "name": "Heading/Heading md (SB)/Line Height",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:592" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": 30,
+          "alias": "VariableID:77:592",
+          "aliasName": "lineHeight/lineHeight 5"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:850",
+      "name": "Heading/Heading xs (B)/Font Family",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:448" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": "Plus Jakarta Sans",
+          "alias": "VariableID:77:448",
+          "aliasName": "fontFamily/fontFamily"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:851",
+      "name": "Heading/Heading xs (B)/Font Style",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:453" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": "Bold",
+          "alias": "VariableID:77:453",
+          "aliasName": "fontStyle/fontStyle b"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:852",
+      "name": "Heading/Heading xs (B)/Font Size",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:461" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": 16,
+          "alias": "VariableID:77:461",
+          "aliasName": "fontSize/fontSize 5"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:853",
+      "name": "Heading/Heading xs (B)/Letter Spacing",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:511" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": 0,
+          "alias": "VariableID:77:511",
+          "aliasName": "letterSpacing/letterSpacing"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:854",
+      "name": "Heading/Heading xs (B)/Peragraph Spacing",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:512" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": 0,
+          "alias": "VariableID:77:512",
+          "aliasName": "paragraphSpacing/paragraphSpacing"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:855",
+      "name": "Heading/Heading xs (B)/Line Height",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:590" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": 24,
+          "alias": "VariableID:77:590",
+          "aliasName": "lineHeight/lineHeight 3"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:862",
+      "name": "Heading/Heading xs (SB)/Font Family",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:448" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": "Plus Jakarta Sans",
+          "alias": "VariableID:77:448",
+          "aliasName": "fontFamily/fontFamily"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:863",
+      "name": "Heading/Heading xs (SB)/Font Style",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:452" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": "SemiBold",
+          "alias": "VariableID:77:452",
+          "aliasName": "fontStyle/fontStyle sb"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:864",
+      "name": "Heading/Heading xs (SB)/Font Size",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:461" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": 16,
+          "alias": "VariableID:77:461",
+          "aliasName": "fontSize/fontSize 5"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:865",
+      "name": "Heading/Heading xs (SB)/Letter Spacing",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:511" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": 0,
+          "alias": "VariableID:77:511",
+          "aliasName": "letterSpacing/letterSpacing"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:866",
+      "name": "Heading/Heading xs (SB)/Peragraph Spacing",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:512" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": 0,
+          "alias": "VariableID:77:512",
+          "aliasName": "paragraphSpacing/paragraphSpacing"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:867",
+      "name": "Heading/Heading xs (SB)/Line Height",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:590" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": 24,
+          "alias": "VariableID:77:590",
+          "aliasName": "lineHeight/lineHeight 3"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:874",
+      "name": "Body/Body xl (B)/Font Family",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:448" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": "Plus Jakarta Sans",
+          "alias": "VariableID:77:448",
+          "aliasName": "fontFamily/fontFamily"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:875",
+      "name": "Body/Body xl (SB)/Font Family",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:448" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": "Plus Jakarta Sans",
+          "alias": "VariableID:77:448",
+          "aliasName": "fontFamily/fontFamily"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:876",
+      "name": "Body/Body xl (SB)/Font Style",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:452" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": "SemiBold",
+          "alias": "VariableID:77:452",
+          "aliasName": "fontStyle/fontStyle sb"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:877",
+      "name": "Body/Body xl (SB)/Font Size",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:463" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": 20,
+          "alias": "VariableID:77:463",
+          "aliasName": "fontSize/fontSize 7"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:878",
+      "name": "Body/Body xl (SB)/Letter Spacing",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:511" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": 0,
+          "alias": "VariableID:77:511",
+          "aliasName": "letterSpacing/letterSpacing"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:879",
+      "name": "Body/Body xl (SB)/Peragraph Spacing",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:512" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": 0,
+          "alias": "VariableID:77:512",
+          "aliasName": "paragraphSpacing/paragraphSpacing"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:880",
+      "name": "Body/Body xl (SB)/Line Height",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:592" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": 30,
+          "alias": "VariableID:77:592",
+          "aliasName": "lineHeight/lineHeight 5"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:881",
+      "name": "Body/Body xl (M)/Font Family",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:448" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": "Plus Jakarta Sans",
+          "alias": "VariableID:77:448",
+          "aliasName": "fontFamily/fontFamily"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:882",
+      "name": "Body/Body xl (M)/Font Style",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:451" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": "Medium",
+          "alias": "VariableID:77:451",
+          "aliasName": "fontStyle/fontStyle m"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:883",
+      "name": "Body/Body xl (M)/Font Size",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:463" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": 20,
+          "alias": "VariableID:77:463",
+          "aliasName": "fontSize/fontSize 7"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:884",
+      "name": "Body/Body xl (M)/Letter Spacing",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:511" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": 0,
+          "alias": "VariableID:77:511",
+          "aliasName": "letterSpacing/letterSpacing"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:885",
+      "name": "Body/Body xl (M)/Peragraph Spacing",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:512" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": 0,
+          "alias": "VariableID:77:512",
+          "aliasName": "paragraphSpacing/paragraphSpacing"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:886",
+      "name": "Body/Body xl (M)/Line Height",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:592" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": 30,
+          "alias": "VariableID:77:592",
+          "aliasName": "lineHeight/lineHeight 5"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:887",
+      "name": "Body/Body xl (B)/Font Style",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:453" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": "Bold",
+          "alias": "VariableID:77:453",
+          "aliasName": "fontStyle/fontStyle b"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:888",
+      "name": "Body/Body xl (B)/Font Size",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:463" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": 20,
+          "alias": "VariableID:77:463",
+          "aliasName": "fontSize/fontSize 7"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:889",
+      "name": "Body/Body xl (B)/Letter Spacing",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:511" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": 0,
+          "alias": "VariableID:77:511",
+          "aliasName": "letterSpacing/letterSpacing"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:890",
+      "name": "Body/Body xl (B)/Peragraph Spacing",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:512" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": 0,
+          "alias": "VariableID:77:512",
+          "aliasName": "paragraphSpacing/paragraphSpacing"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:891",
+      "name": "Body/Body xl (B)/Line Height",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:592" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": 30,
+          "alias": "VariableID:77:592",
+          "aliasName": "lineHeight/lineHeight 5"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:892",
+      "name": "Body/Body xl (R)/Font Family",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:448" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": "Plus Jakarta Sans",
+          "alias": "VariableID:77:448",
+          "aliasName": "fontFamily/fontFamily"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:893",
+      "name": "Body/Body xl (R)/Font Style",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:450" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": "Regular",
+          "alias": "VariableID:77:450",
+          "aliasName": "fontStyle/fontStyle r"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:894",
+      "name": "Body/Body xl (R)/Font Size",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:463" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": 20,
+          "alias": "VariableID:77:463",
+          "aliasName": "fontSize/fontSize 7"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:895",
+      "name": "Body/Body xl (R)/Letter Spacing",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:511" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": 0,
+          "alias": "VariableID:77:511",
+          "aliasName": "letterSpacing/letterSpacing"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:896",
+      "name": "Body/Body xl (R)/Peragraph Spacing",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:512" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": 0,
+          "alias": "VariableID:77:512",
+          "aliasName": "paragraphSpacing/paragraphSpacing"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:897",
+      "name": "Body/Body xl (R)/Line Height",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:592" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": 30,
+          "alias": "VariableID:77:592",
+          "aliasName": "lineHeight/lineHeight 5"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:898",
+      "name": "Body/Body lg (B)/Font Family",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:448" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": "Plus Jakarta Sans",
+          "alias": "VariableID:77:448",
+          "aliasName": "fontFamily/fontFamily"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:899",
+      "name": "Body/Body lg (B)/Font Style",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:453" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": "Bold",
+          "alias": "VariableID:77:453",
+          "aliasName": "fontStyle/fontStyle b"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:900",
+      "name": "Body/Body lg (B)/Font Size",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:462" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": 18,
+          "alias": "VariableID:77:462",
+          "aliasName": "fontSize/fontSize 6"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:901",
+      "name": "Body/Body lg (B)/Letter Spacing",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:511" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": 0,
+          "alias": "VariableID:77:511",
+          "aliasName": "letterSpacing/letterSpacing"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:902",
+      "name": "Body/Body lg (B)/Peragraph Spacing",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:512" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": 0,
+          "alias": "VariableID:77:512",
+          "aliasName": "paragraphSpacing/paragraphSpacing"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:903",
+      "name": "Body/Body lg (B)/Line Height",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:591" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": 27,
+          "alias": "VariableID:77:591",
+          "aliasName": "lineHeight/lineHeight 4"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:904",
+      "name": "Body/Body lg (SB)/Font Family",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:448" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": "Plus Jakarta Sans",
+          "alias": "VariableID:77:448",
+          "aliasName": "fontFamily/fontFamily"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:905",
+      "name": "Body/Body lg (M)/Font Family",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:448" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": "Plus Jakarta Sans",
+          "alias": "VariableID:77:448",
+          "aliasName": "fontFamily/fontFamily"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:906",
+      "name": "Body/Body lg (M)/Font Style",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:451" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": "Medium",
+          "alias": "VariableID:77:451",
+          "aliasName": "fontStyle/fontStyle m"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:907",
+      "name": "Body/Body lg (M)/Font Size",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:462" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": 18,
+          "alias": "VariableID:77:462",
+          "aliasName": "fontSize/fontSize 6"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:908",
+      "name": "Body/Body lg (M)/Letter Spacing",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:511" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": 0,
+          "alias": "VariableID:77:511",
+          "aliasName": "letterSpacing/letterSpacing"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:909",
+      "name": "Body/Body lg (M)/Peragraph Spacing",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:512" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": 0,
+          "alias": "VariableID:77:512",
+          "aliasName": "paragraphSpacing/paragraphSpacing"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:910",
+      "name": "Body/Body lg (M)/Line Height",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:591" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": 27,
+          "alias": "VariableID:77:591",
+          "aliasName": "lineHeight/lineHeight 4"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:911",
+      "name": "Body/Body lg (R)/Font Family",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:448" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": "Plus Jakarta Sans",
+          "alias": "VariableID:77:448",
+          "aliasName": "fontFamily/fontFamily"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:912",
+      "name": "Body/Body lg (R)/Font Style",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:450" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": "Regular",
+          "alias": "VariableID:77:450",
+          "aliasName": "fontStyle/fontStyle r"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:913",
+      "name": "Body/Body lg (R)/Font Size",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:462" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": 18,
+          "alias": "VariableID:77:462",
+          "aliasName": "fontSize/fontSize 6"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:914",
+      "name": "Body/Body lg (R)/Letter Spacing",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:511" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": 0,
+          "alias": "VariableID:77:511",
+          "aliasName": "letterSpacing/letterSpacing"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:915",
+      "name": "Body/Body lg (R)/Peragraph Spacing",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:512" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": 0,
+          "alias": "VariableID:77:512",
+          "aliasName": "paragraphSpacing/paragraphSpacing"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:916",
+      "name": "Body/Body lg (R)/Line Height",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:591" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": 27,
+          "alias": "VariableID:77:591",
+          "aliasName": "lineHeight/lineHeight 4"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:917",
+      "name": "Body/Body lg (SB)/Font Style",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:452" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": "SemiBold",
+          "alias": "VariableID:77:452",
+          "aliasName": "fontStyle/fontStyle sb"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:918",
+      "name": "Body/Body lg (SB)/Font Size",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:462" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": 18,
+          "alias": "VariableID:77:462",
+          "aliasName": "fontSize/fontSize 6"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:919",
+      "name": "Body/Body lg (SB)/Letter Spacing",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:511" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": 0,
+          "alias": "VariableID:77:511",
+          "aliasName": "letterSpacing/letterSpacing"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:920",
+      "name": "Body/Body lg (SB)/Peragraph Spacing",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:512" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": 0,
+          "alias": "VariableID:77:512",
+          "aliasName": "paragraphSpacing/paragraphSpacing"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:921",
+      "name": "Body/Body lg (SB)/Line Height",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:591" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": 27,
+          "alias": "VariableID:77:591",
+          "aliasName": "lineHeight/lineHeight 4"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:922",
+      "name": "Body/Body md (B)/Font Family",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:448" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": "Plus Jakarta Sans",
+          "alias": "VariableID:77:448",
+          "aliasName": "fontFamily/fontFamily"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:923",
+      "name": "Body/Body md (B)/Font Style",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:453" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": "Bold",
+          "alias": "VariableID:77:453",
+          "aliasName": "fontStyle/fontStyle b"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:924",
+      "name": "Body/Body md (B)/Font Size",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:461" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": 16,
+          "alias": "VariableID:77:461",
+          "aliasName": "fontSize/fontSize 5"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:925",
+      "name": "Body/Body md (B)/Letter Spacing",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:511" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": 0,
+          "alias": "VariableID:77:511",
+          "aliasName": "letterSpacing/letterSpacing"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:926",
+      "name": "Body/Body md (B)/Peragraph Spacing",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:512" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": 0,
+          "alias": "VariableID:77:512",
+          "aliasName": "paragraphSpacing/paragraphSpacing"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:927",
+      "name": "Body/Body md (B)/Line Height",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:590" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": 24,
+          "alias": "VariableID:77:590",
+          "aliasName": "lineHeight/lineHeight 3"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:928",
+      "name": "Body/Body md (SB)/Font Family",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:448" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": "Plus Jakarta Sans",
+          "alias": "VariableID:77:448",
+          "aliasName": "fontFamily/fontFamily"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:929",
+      "name": "Body/Body md (SB)/Font Style",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:452" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": "SemiBold",
+          "alias": "VariableID:77:452",
+          "aliasName": "fontStyle/fontStyle sb"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:930",
+      "name": "Body/Body md (SB)/Font Size",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:461" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": 16,
+          "alias": "VariableID:77:461",
+          "aliasName": "fontSize/fontSize 5"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:931",
+      "name": "Body/Body md (SB)/Letter Spacing",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:511" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": 0,
+          "alias": "VariableID:77:511",
+          "aliasName": "letterSpacing/letterSpacing"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:932",
+      "name": "Body/Body md (SB)/Peragraph Spacing",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:512" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": 0,
+          "alias": "VariableID:77:512",
+          "aliasName": "paragraphSpacing/paragraphSpacing"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:933",
+      "name": "Body/Body md (SB)/Line Height",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:590" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": 24,
+          "alias": "VariableID:77:590",
+          "aliasName": "lineHeight/lineHeight 3"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:934",
+      "name": "Body/Body md (M)/Font Family",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:448" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": "Plus Jakarta Sans",
+          "alias": "VariableID:77:448",
+          "aliasName": "fontFamily/fontFamily"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:935",
+      "name": "Body/Body md (M)/Font Style",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:451" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": "Medium",
+          "alias": "VariableID:77:451",
+          "aliasName": "fontStyle/fontStyle m"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:936",
+      "name": "Body/Body md (M)/Font Size",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:461" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": 16,
+          "alias": "VariableID:77:461",
+          "aliasName": "fontSize/fontSize 5"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:937",
+      "name": "Body/Body md (M)/Letter Spacing",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:511" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": 0,
+          "alias": "VariableID:77:511",
+          "aliasName": "letterSpacing/letterSpacing"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:938",
+      "name": "Body/Body md (M)/Peragraph Spacing",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:512" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": 0,
+          "alias": "VariableID:77:512",
+          "aliasName": "paragraphSpacing/paragraphSpacing"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:939",
+      "name": "Body/Body md (M)/Line Height",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:590" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": 24,
+          "alias": "VariableID:77:590",
+          "aliasName": "lineHeight/lineHeight 3"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:940",
+      "name": "Body/Body md (R)/Font Family",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:448" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": "Plus Jakarta Sans",
+          "alias": "VariableID:77:448",
+          "aliasName": "fontFamily/fontFamily"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:941",
+      "name": "Body/Body md (R)/Font Style",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:450" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": "Regular",
+          "alias": "VariableID:77:450",
+          "aliasName": "fontStyle/fontStyle r"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:942",
+      "name": "Body/Body md (R)/Font Size",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:461" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": 16,
+          "alias": "VariableID:77:461",
+          "aliasName": "fontSize/fontSize 5"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:943",
+      "name": "Body/Body md (R)/Letter Spacing",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:511" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": 0,
+          "alias": "VariableID:77:511",
+          "aliasName": "letterSpacing/letterSpacing"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:944",
+      "name": "Body/Body md (R)/Peragraph Spacing",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:512" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": 0,
+          "alias": "VariableID:77:512",
+          "aliasName": "paragraphSpacing/paragraphSpacing"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:945",
+      "name": "Body/Body md (R)/Line Height",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:590" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": 24,
+          "alias": "VariableID:77:590",
+          "aliasName": "lineHeight/lineHeight 3"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:946",
+      "name": "Body/Body sm (B)/Font Family",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:448" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": "Plus Jakarta Sans",
+          "alias": "VariableID:77:448",
+          "aliasName": "fontFamily/fontFamily"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:947",
+      "name": "Body/Body sm (M)/Font Family",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:448" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": "Plus Jakarta Sans",
+          "alias": "VariableID:77:448",
+          "aliasName": "fontFamily/fontFamily"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:948",
+      "name": "Body/Body sm (M)/Font Style",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:451" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": "Medium",
+          "alias": "VariableID:77:451",
+          "aliasName": "fontStyle/fontStyle m"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:949",
+      "name": "Body/Body sm (M)/Font Size",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:460" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": 14,
+          "alias": "VariableID:77:460",
+          "aliasName": "fontSize/fontSize 4"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:950",
+      "name": "Body/Body sm (M)/Letter Spacing",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:511" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": 0,
+          "alias": "VariableID:77:511",
+          "aliasName": "letterSpacing/letterSpacing"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:951",
+      "name": "Body/Body sm (M)/Peragraph Spacing",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:512" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": 0,
+          "alias": "VariableID:77:512",
+          "aliasName": "paragraphSpacing/paragraphSpacing"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:952",
+      "name": "Body/Body sm (M)/Line Height",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:516" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": 21,
+          "alias": "VariableID:77:516",
+          "aliasName": "lineHeight/lineHeight 2"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:953",
+      "name": "Body/Body sm (B)/Font Style",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:453" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": "Bold",
+          "alias": "VariableID:77:453",
+          "aliasName": "fontStyle/fontStyle b"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:954",
+      "name": "Body/Body sm (B)/Font Size",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:460" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": 14,
+          "alias": "VariableID:77:460",
+          "aliasName": "fontSize/fontSize 4"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:955",
+      "name": "Body/Body sm (B)/Letter Spacing",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:511" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": 0,
+          "alias": "VariableID:77:511",
+          "aliasName": "letterSpacing/letterSpacing"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:956",
+      "name": "Body/Body sm (B)/Peragraph Spacing",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:512" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": 0,
+          "alias": "VariableID:77:512",
+          "aliasName": "paragraphSpacing/paragraphSpacing"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:957",
+      "name": "Body/Body sm (B)/Line Height",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:516" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": 21,
+          "alias": "VariableID:77:516",
+          "aliasName": "lineHeight/lineHeight 2"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:958",
+      "name": "Body/Body sm (SB)/Font Family",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:448" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": "Plus Jakarta Sans",
+          "alias": "VariableID:77:448",
+          "aliasName": "fontFamily/fontFamily"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:959",
+      "name": "Body/Body sm (SB)/Font Style",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:452" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": "SemiBold",
+          "alias": "VariableID:77:452",
+          "aliasName": "fontStyle/fontStyle sb"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:960",
+      "name": "Body/Body sm (SB)/Font Size",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:460" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": 14,
+          "alias": "VariableID:77:460",
+          "aliasName": "fontSize/fontSize 4"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:961",
+      "name": "Body/Body sm (SB)/Letter Spacing",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:511" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": 0,
+          "alias": "VariableID:77:511",
+          "aliasName": "letterSpacing/letterSpacing"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:962",
+      "name": "Body/Body sm (SB)/Peragraph Spacing",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:512" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": 0,
+          "alias": "VariableID:77:512",
+          "aliasName": "paragraphSpacing/paragraphSpacing"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:963",
+      "name": "Body/Body sm (SB)/Line Height",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:516" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": 21,
+          "alias": "VariableID:77:516",
+          "aliasName": "lineHeight/lineHeight 2"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:964",
+      "name": "Body/Body sm (R)/Font Family",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:448" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": "Plus Jakarta Sans",
+          "alias": "VariableID:77:448",
+          "aliasName": "fontFamily/fontFamily"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:965",
+      "name": "Body/Body sm (R)/Font Style",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:450" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": "Regular",
+          "alias": "VariableID:77:450",
+          "aliasName": "fontStyle/fontStyle r"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:966",
+      "name": "Body/Body sm (R)/Font Size",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:460" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": 14,
+          "alias": "VariableID:77:460",
+          "aliasName": "fontSize/fontSize 4"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:967",
+      "name": "Body/Body sm (R)/Letter Spacing",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:511" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": 0,
+          "alias": "VariableID:77:511",
+          "aliasName": "letterSpacing/letterSpacing"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:968",
+      "name": "Body/Body sm (R)/Peragraph Spacing",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:512" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": 0,
+          "alias": "VariableID:77:512",
+          "aliasName": "paragraphSpacing/paragraphSpacing"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:969",
+      "name": "Body/Body sm (R)/Line Height",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:516" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": 21,
+          "alias": "VariableID:77:516",
+          "aliasName": "lineHeight/lineHeight 2"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:970",
+      "name": "Body/Body xs (B)/Font Family",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:448" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": "Plus Jakarta Sans",
+          "alias": "VariableID:77:448",
+          "aliasName": "fontFamily/fontFamily"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:971",
+      "name": "Body/Body xs (B)/Font Style",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:453" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": "Bold",
+          "alias": "VariableID:77:453",
+          "aliasName": "fontStyle/fontStyle b"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:972",
+      "name": "Body/Body xs (B)/Font Size",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:459" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": 12,
+          "alias": "VariableID:77:459",
+          "aliasName": "fontSize/fontSize 3"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:973",
+      "name": "Body/Body xs (B)/Letter Spacing",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:511" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": 0,
+          "alias": "VariableID:77:511",
+          "aliasName": "letterSpacing/letterSpacing"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:974",
+      "name": "Body/Body xs (B)/Peragraph Spacing",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:512" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": 0,
+          "alias": "VariableID:77:512",
+          "aliasName": "paragraphSpacing/paragraphSpacing"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:975",
+      "name": "Body/Body xs (B)/Line Height",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:513" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": 18,
+          "alias": "VariableID:77:513",
+          "aliasName": "lineHeight/lineHeight 1"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:976",
+      "name": "Body/Body xs (M)/Font Family",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:448" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": "Plus Jakarta Sans",
+          "alias": "VariableID:77:448",
+          "aliasName": "fontFamily/fontFamily"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:977",
+      "name": "Body/Body xs (M)/Font Style",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:451" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": "Medium",
+          "alias": "VariableID:77:451",
+          "aliasName": "fontStyle/fontStyle m"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:978",
+      "name": "Body/Body xs (M)/Font Size",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:459" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": 12,
+          "alias": "VariableID:77:459",
+          "aliasName": "fontSize/fontSize 3"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:979",
+      "name": "Body/Body xs (M)/Letter Spacing",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:511" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": 0,
+          "alias": "VariableID:77:511",
+          "aliasName": "letterSpacing/letterSpacing"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:980",
+      "name": "Body/Body xs (M)/Peragraph Spacing",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:512" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": 0,
+          "alias": "VariableID:77:512",
+          "aliasName": "paragraphSpacing/paragraphSpacing"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:981",
+      "name": "Body/Body xs (M)/Line Height",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:513" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": 18,
+          "alias": "VariableID:77:513",
+          "aliasName": "lineHeight/lineHeight 1"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:982",
+      "name": "Body/Body xs (SB)/Font Family",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:448" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": "Plus Jakarta Sans",
+          "alias": "VariableID:77:448",
+          "aliasName": "fontFamily/fontFamily"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:983",
+      "name": "Body/Body xs (SB)/Font Style",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:452" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": "SemiBold",
+          "alias": "VariableID:77:452",
+          "aliasName": "fontStyle/fontStyle sb"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:984",
+      "name": "Body/Body xs (SB)/Font Size",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:459" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": 12,
+          "alias": "VariableID:77:459",
+          "aliasName": "fontSize/fontSize 3"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:985",
+      "name": "Body/Body xs (SB)/Letter Spacing",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:511" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": 0,
+          "alias": "VariableID:77:511",
+          "aliasName": "letterSpacing/letterSpacing"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:986",
+      "name": "Body/Body xs (SB)/Peragraph Spacing",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:512" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": 0,
+          "alias": "VariableID:77:512",
+          "aliasName": "paragraphSpacing/paragraphSpacing"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:987",
+      "name": "Body/Body xs (SB)/Line Height",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:513" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": 18,
+          "alias": "VariableID:77:513",
+          "aliasName": "lineHeight/lineHeight 1"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:988",
+      "name": "Body/Body xs (R)/Font Family",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:448" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": "Plus Jakarta Sans",
+          "alias": "VariableID:77:448",
+          "aliasName": "fontFamily/fontFamily"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:989",
+      "name": "Body/Body xs (R)/Font Style",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:450" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": "Regular",
+          "alias": "VariableID:77:450",
+          "aliasName": "fontStyle/fontStyle r"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:990",
+      "name": "Body/Body xs (R)/Font Size",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:459" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": 12,
+          "alias": "VariableID:77:459",
+          "aliasName": "fontSize/fontSize 3"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:991",
+      "name": "Body/Body xs (R)/Letter Spacing",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:511" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": 0,
+          "alias": "VariableID:77:511",
+          "aliasName": "letterSpacing/letterSpacing"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:992",
+      "name": "Body/Body xs (R)/Peragraph Spacing",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:512" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": 0,
+          "alias": "VariableID:77:512",
+          "aliasName": "paragraphSpacing/paragraphSpacing"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:993",
+      "name": "Body/Body xs (R)/Line Height",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:513" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": 18,
+          "alias": "VariableID:77:513",
+          "aliasName": "lineHeight/lineHeight 1"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:106:73",
+      "name": "Body/Body xxs (B)/Font Family",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:448" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": "Plus Jakarta Sans",
+          "alias": "VariableID:77:448",
+          "aliasName": "fontFamily/fontFamily"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:106:74",
+      "name": "Body/Body xxs (B)/Font Style",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:453" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": "Bold",
+          "alias": "VariableID:77:453",
+          "aliasName": "fontStyle/fontStyle b"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:106:75",
+      "name": "Body/Body xxs (B)/Font Size",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:458" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": 10,
+          "alias": "VariableID:77:458",
+          "aliasName": "fontSize/fontSize 2"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:106:76",
+      "name": "Body/Body xxs (B)/Letter Spacing",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:511" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": 0,
+          "alias": "VariableID:77:511",
+          "aliasName": "letterSpacing/letterSpacing"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:106:77",
+      "name": "Body/Body xxs (B)/Peragraph Spacing",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:512" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": 0,
+          "alias": "VariableID:77:512",
+          "aliasName": "paragraphSpacing/paragraphSpacing"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:106:78",
+      "name": "Body/Body xxs (B)/Line Height",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:106:99" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": 16,
+          "alias": "VariableID:106:99",
+          "aliasName": "lineHeight/lineHeight 0"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:106:79",
+      "name": "Body/Body xxs (M)/Font Family",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:448" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": "Plus Jakarta Sans",
+          "alias": "VariableID:77:448",
+          "aliasName": "fontFamily/fontFamily"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:106:80",
+      "name": "Body/Body xxs (M)/Font Style",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:451" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": "Medium",
+          "alias": "VariableID:77:451",
+          "aliasName": "fontStyle/fontStyle m"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:106:81",
+      "name": "Body/Body xxs (M)/Font Size",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:458" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": 10,
+          "alias": "VariableID:77:458",
+          "aliasName": "fontSize/fontSize 2"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:106:82",
+      "name": "Body/Body xxs (M)/Letter Spacing",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:511" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": 0,
+          "alias": "VariableID:77:511",
+          "aliasName": "letterSpacing/letterSpacing"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:106:83",
+      "name": "Body/Body xxs (M)/Peragraph Spacing",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:512" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": 0,
+          "alias": "VariableID:77:512",
+          "aliasName": "paragraphSpacing/paragraphSpacing"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:106:84",
+      "name": "Body/Body xxs (M)/Line Height",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:106:99" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": 16,
+          "alias": "VariableID:106:99",
+          "aliasName": "lineHeight/lineHeight 0"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:106:85",
+      "name": "Body/Body xxs (SB)/Font Family",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:448" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": "Plus Jakarta Sans",
+          "alias": "VariableID:77:448",
+          "aliasName": "fontFamily/fontFamily"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:106:86",
+      "name": "Body/Body xxs (SB)/Font Style",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:452" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": "SemiBold",
+          "alias": "VariableID:77:452",
+          "aliasName": "fontStyle/fontStyle sb"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:106:87",
+      "name": "Body/Body xxs (SB)/Font Size",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:458" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": 10,
+          "alias": "VariableID:77:458",
+          "aliasName": "fontSize/fontSize 2"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:106:88",
+      "name": "Body/Body xxs (SB)/Letter Spacing",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:511" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": 0,
+          "alias": "VariableID:77:511",
+          "aliasName": "letterSpacing/letterSpacing"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:106:89",
+      "name": "Body/Body xxs (SB)/Peragraph Spacing",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:512" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": 0,
+          "alias": "VariableID:77:512",
+          "aliasName": "paragraphSpacing/paragraphSpacing"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:106:90",
+      "name": "Body/Body xxs (SB)/Line Height",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:106:99" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": 16,
+          "alias": "VariableID:106:99",
+          "aliasName": "lineHeight/lineHeight 0"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:106:91",
+      "name": "Body/Body xxs (R)/Font Family",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:448" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": "Plus Jakarta Sans",
+          "alias": "VariableID:77:448",
+          "aliasName": "fontFamily/fontFamily"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:106:92",
+      "name": "Body/Body xxs (R)/Font Style",
+      "description": "",
+      "type": "STRING",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:450" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": "Regular",
+          "alias": "VariableID:77:450",
+          "aliasName": "fontStyle/fontStyle r"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:106:93",
+      "name": "Body/Body xxs (R)/Font Size",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:458" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": 10,
+          "alias": "VariableID:77:458",
+          "aliasName": "fontSize/fontSize 2"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:106:94",
+      "name": "Body/Body xxs (R)/Letter Spacing",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:511" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": 0,
+          "alias": "VariableID:77:511",
+          "aliasName": "letterSpacing/letterSpacing"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:106:95",
+      "name": "Body/Body xxs (R)/Peragraph Spacing",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:77:512" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": 0,
+          "alias": "VariableID:77:512",
+          "aliasName": "paragraphSpacing/paragraphSpacing"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:106:96",
+      "name": "Body/Body xxs (R)/Line Height",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": {
+        "77:7": { "type": "VARIABLE_ALIAS", "id": "VariableID:106:99" }
+      },
+      "resolvedValuesByMode": {
+        "77:7": {
+          "resolvedValue": 16,
+          "alias": "VariableID:106:99",
+          "aliasName": "lineHeight/lineHeight 0"
+        }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    }
+  ]
+}

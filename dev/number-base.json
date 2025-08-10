@@ -1,0 +1,2537 @@
+{
+  "id": "VariableCollectionId:77:193",
+  "name": "Number Base",
+  "modes": { "77:0": "Mode 1" },
+  "variableIds": [
+    "VariableID:77:383",
+    "VariableID:77:195",
+    "VariableID:77:201",
+    "VariableID:77:202",
+    "VariableID:77:203",
+    "VariableID:77:204",
+    "VariableID:77:205",
+    "VariableID:77:206",
+    "VariableID:77:207",
+    "VariableID:77:208",
+    "VariableID:77:209",
+    "VariableID:77:210",
+    "VariableID:77:211",
+    "VariableID:77:212",
+    "VariableID:77:213",
+    "VariableID:77:214",
+    "VariableID:77:215",
+    "VariableID:77:216",
+    "VariableID:77:217",
+    "VariableID:77:218",
+    "VariableID:77:219",
+    "VariableID:77:220",
+    "VariableID:77:221",
+    "VariableID:77:222",
+    "VariableID:77:223",
+    "VariableID:77:224",
+    "VariableID:77:225",
+    "VariableID:77:226",
+    "VariableID:77:227",
+    "VariableID:77:228",
+    "VariableID:77:229",
+    "VariableID:77:230",
+    "VariableID:77:231",
+    "VariableID:77:232",
+    "VariableID:77:233",
+    "VariableID:77:234",
+    "VariableID:77:235",
+    "VariableID:77:236",
+    "VariableID:77:237",
+    "VariableID:77:238",
+    "VariableID:77:239",
+    "VariableID:77:240",
+    "VariableID:77:241",
+    "VariableID:77:242",
+    "VariableID:77:243",
+    "VariableID:77:244",
+    "VariableID:77:245",
+    "VariableID:77:246",
+    "VariableID:77:247",
+    "VariableID:77:248",
+    "VariableID:77:249",
+    "VariableID:77:250",
+    "VariableID:77:251",
+    "VariableID:77:252",
+    "VariableID:77:253",
+    "VariableID:77:254",
+    "VariableID:77:255",
+    "VariableID:77:256",
+    "VariableID:77:257",
+    "VariableID:77:258",
+    "VariableID:77:259",
+    "VariableID:77:260",
+    "VariableID:77:261",
+    "VariableID:77:262",
+    "VariableID:77:263",
+    "VariableID:77:264",
+    "VariableID:77:265",
+    "VariableID:77:266",
+    "VariableID:77:267",
+    "VariableID:77:268",
+    "VariableID:77:269",
+    "VariableID:77:270",
+    "VariableID:77:271",
+    "VariableID:77:272",
+    "VariableID:77:273",
+    "VariableID:77:274",
+    "VariableID:77:275",
+    "VariableID:77:276",
+    "VariableID:77:277",
+    "VariableID:77:278",
+    "VariableID:77:279",
+    "VariableID:77:280",
+    "VariableID:77:281",
+    "VariableID:77:282",
+    "VariableID:77:283",
+    "VariableID:77:284",
+    "VariableID:77:285",
+    "VariableID:77:286",
+    "VariableID:77:287",
+    "VariableID:77:288",
+    "VariableID:77:289",
+    "VariableID:77:290",
+    "VariableID:77:291",
+    "VariableID:77:292",
+    "VariableID:77:293",
+    "VariableID:77:294",
+    "VariableID:77:295",
+    "VariableID:77:296",
+    "VariableID:77:297",
+    "VariableID:77:298",
+    "VariableID:77:299",
+    "VariableID:77:300",
+    "VariableID:77:304",
+    "VariableID:77:305",
+    "VariableID:77:306",
+    "VariableID:77:307",
+    "VariableID:77:308",
+    "VariableID:77:309",
+    "VariableID:77:310",
+    "VariableID:77:311",
+    "VariableID:77:312",
+    "VariableID:77:313",
+    "VariableID:77:314",
+    "VariableID:77:315",
+    "VariableID:77:316",
+    "VariableID:77:317",
+    "VariableID:77:318",
+    "VariableID:77:319",
+    "VariableID:77:320",
+    "VariableID:77:321",
+    "VariableID:77:322",
+    "VariableID:77:323",
+    "VariableID:77:324",
+    "VariableID:77:325",
+    "VariableID:77:326",
+    "VariableID:77:327",
+    "VariableID:77:328",
+    "VariableID:77:329",
+    "VariableID:77:330",
+    "VariableID:77:331",
+    "VariableID:77:332",
+    "VariableID:77:333",
+    "VariableID:77:334",
+    "VariableID:77:335",
+    "VariableID:77:336",
+    "VariableID:77:337",
+    "VariableID:77:338",
+    "VariableID:77:339",
+    "VariableID:77:340",
+    "VariableID:77:341",
+    "VariableID:77:342",
+    "VariableID:77:343",
+    "VariableID:77:344",
+    "VariableID:77:345",
+    "VariableID:77:346",
+    "VariableID:77:347",
+    "VariableID:77:348",
+    "VariableID:77:349",
+    "VariableID:77:350",
+    "VariableID:77:351",
+    "VariableID:77:352",
+    "VariableID:77:353",
+    "VariableID:77:354",
+    "VariableID:77:355",
+    "VariableID:77:356",
+    "VariableID:77:357",
+    "VariableID:77:358",
+    "VariableID:77:359",
+    "VariableID:77:360",
+    "VariableID:77:361",
+    "VariableID:77:362",
+    "VariableID:77:363",
+    "VariableID:77:364",
+    "VariableID:77:365",
+    "VariableID:77:366",
+    "VariableID:77:367",
+    "VariableID:77:368",
+    "VariableID:77:369",
+    "VariableID:77:370",
+    "VariableID:77:371",
+    "VariableID:77:372",
+    "VariableID:77:373",
+    "VariableID:77:374",
+    "VariableID:77:375",
+    "VariableID:77:376",
+    "VariableID:77:377",
+    "VariableID:77:378",
+    "VariableID:77:379",
+    "VariableID:77:380",
+    "VariableID:77:381",
+    "VariableID:77:382",
+    "VariableID:584:2929"
+  ],
+  "variables": [
+    {
+      "id": "VariableID:77:195",
+      "name": "Number 1",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 1 },
+      "resolvedValuesByMode": { "77:0": { "resolvedValue": 1, "alias": null } },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:201",
+      "name": "Number 2",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 2 },
+      "resolvedValuesByMode": { "77:0": { "resolvedValue": 2, "alias": null } },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:202",
+      "name": "Number 3",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 3 },
+      "resolvedValuesByMode": { "77:0": { "resolvedValue": 3, "alias": null } },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:203",
+      "name": "Number 4",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 4 },
+      "resolvedValuesByMode": { "77:0": { "resolvedValue": 4, "alias": null } },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:204",
+      "name": "Number 5",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 5 },
+      "resolvedValuesByMode": { "77:0": { "resolvedValue": 5, "alias": null } },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:205",
+      "name": "Number 6",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 6 },
+      "resolvedValuesByMode": { "77:0": { "resolvedValue": 6, "alias": null } },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:206",
+      "name": "Number 7",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 7 },
+      "resolvedValuesByMode": { "77:0": { "resolvedValue": 7, "alias": null } },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:207",
+      "name": "Number 8",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 8 },
+      "resolvedValuesByMode": { "77:0": { "resolvedValue": 8, "alias": null } },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:208",
+      "name": "Number 9",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 9 },
+      "resolvedValuesByMode": { "77:0": { "resolvedValue": 9, "alias": null } },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:209",
+      "name": "Number 10",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 10 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 10, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:210",
+      "name": "Number 11",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 11 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 11, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:211",
+      "name": "Number 12",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 12 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 12, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:212",
+      "name": "Number 13",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 13 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 13, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:213",
+      "name": "Number 14",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 14 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 14, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:214",
+      "name": "Number 15",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 15 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 15, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:215",
+      "name": "Number 16",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 16 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 16, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:216",
+      "name": "Number 17",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 17 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 17, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:217",
+      "name": "Number 18",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 18 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 18, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:218",
+      "name": "Number 19",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 19 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 19, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:219",
+      "name": "Number 20",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 20 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 20, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:220",
+      "name": "Number 21",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 21 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 21, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:221",
+      "name": "Number 22",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 22 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 22, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:222",
+      "name": "Number 23",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 23 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 23, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:223",
+      "name": "Number 24",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 24 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 24, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:224",
+      "name": "Number 25",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 25 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 25, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:225",
+      "name": "Number 26",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 26 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 26, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:226",
+      "name": "Number 27",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 27 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 27, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:227",
+      "name": "Number 28",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 28 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 28, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:228",
+      "name": "Number 29",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 29 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 29, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:229",
+      "name": "Number 30",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 30 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 30, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:230",
+      "name": "Number 31",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 31 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 31, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:231",
+      "name": "Number 32",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 32 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 32, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:232",
+      "name": "Number 33",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 33 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 33, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:233",
+      "name": "Number 34",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 34 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 34, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:234",
+      "name": "Number 35",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 35 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 35, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:235",
+      "name": "Number 36",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 36 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 36, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:236",
+      "name": "Number 37",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 37 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 37, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:237",
+      "name": "Number 38",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 38 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 38, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:238",
+      "name": "Number 39",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 39 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 39, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:239",
+      "name": "Number 40",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 40 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 40, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:240",
+      "name": "Number 41",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 41 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 41, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:241",
+      "name": "Number 42",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 42 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 42, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:242",
+      "name": "Number 43",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 43 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 43, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:243",
+      "name": "Number 44",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 44 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 44, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:244",
+      "name": "Number 45",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 45 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 45, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:245",
+      "name": "Number 46",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 46 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 46, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:246",
+      "name": "Number 47",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 47 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 47, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:247",
+      "name": "Number 48",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 48 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 48, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:248",
+      "name": "Number 49",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 49 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 49, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:249",
+      "name": "Number 50",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 50 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 50, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:250",
+      "name": "Number 51",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 51 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 51, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:251",
+      "name": "Number 52",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 52 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 52, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:252",
+      "name": "Number 53",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 53 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 53, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:253",
+      "name": "Number 54",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 54 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 54, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:254",
+      "name": "Number 55",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 55 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 55, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:255",
+      "name": "Number 56",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 56 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 56, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:256",
+      "name": "Number 57",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 57 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 57, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:257",
+      "name": "Number 58",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 58 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 58, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:258",
+      "name": "Number 59",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 59 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 59, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:259",
+      "name": "Number 60",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 60 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 60, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:260",
+      "name": "Number 61",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 61 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 61, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:261",
+      "name": "Number 62",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 62 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 62, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:262",
+      "name": "Number 63",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 63 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 63, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:263",
+      "name": "Number 64",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 64 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 64, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:264",
+      "name": "Number 65",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 65 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 65, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:265",
+      "name": "Number 66",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 66 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 66, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:266",
+      "name": "Number 67",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 67 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 67, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:267",
+      "name": "Number 68",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 68 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 68, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:268",
+      "name": "Number 69",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 69 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 69, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:269",
+      "name": "Number 70",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 70 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 70, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:270",
+      "name": "Number 71",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 71 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 71, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:271",
+      "name": "Number 72",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 72 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 72, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:272",
+      "name": "Number 73",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 73 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 73, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:273",
+      "name": "Number 74",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 74 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 74, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:274",
+      "name": "Number 75",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 75 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 75, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:275",
+      "name": "Number 76",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 76 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 76, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:276",
+      "name": "Number 77",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 77 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 77, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:277",
+      "name": "Number 78",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 78 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 78, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:278",
+      "name": "Number 79",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 79 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 79, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:279",
+      "name": "Number 80",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 80 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 80, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:280",
+      "name": "Number 81",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 81 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 81, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:281",
+      "name": "Number 82",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 82 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 82, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:282",
+      "name": "Number 83",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 83 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 83, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:283",
+      "name": "Number 84",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 84 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 84, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:284",
+      "name": "Number 85",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 85 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 85, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:285",
+      "name": "Number 86",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 86 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 86, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:286",
+      "name": "Number 87",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 87 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 87, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:287",
+      "name": "Number 88",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 88 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 88, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:288",
+      "name": "Number 89",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 89 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 89, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:289",
+      "name": "Number 90",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 90 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 90, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:290",
+      "name": "Number 91",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 91 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 91, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:291",
+      "name": "Number 92",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 92 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 92, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:292",
+      "name": "Number 93",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 93 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 93, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:293",
+      "name": "Number 94",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 94 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 94, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:294",
+      "name": "Number 95",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 95 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 95, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:295",
+      "name": "Number 96",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 96 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 96, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:296",
+      "name": "Number 97",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 97 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 97, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:297",
+      "name": "Number 98",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 98 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 98, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:298",
+      "name": "Number 99",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 99 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 99, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:299",
+      "name": "Number 100",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 100 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 100, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:300",
+      "name": "Number 101",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 101 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 101, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:304",
+      "name": "Number 102",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 102 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 102, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:305",
+      "name": "Number 103",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 103 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 103, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:306",
+      "name": "Number 104",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 104 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 104, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:307",
+      "name": "Number 105",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 105 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 105, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:308",
+      "name": "Number 106",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 106 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 106, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:309",
+      "name": "Number 107",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 107 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 107, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:310",
+      "name": "Number 108",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 108 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 108, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:311",
+      "name": "Number 109",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 109 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 109, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:312",
+      "name": "Number 110",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 110 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 110, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:313",
+      "name": "Number 111",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 111 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 111, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:314",
+      "name": "Number 112",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 112 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 112, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:315",
+      "name": "Number 113",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 113 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 113, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:316",
+      "name": "Number 114",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 114 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 114, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:317",
+      "name": "Number 115",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 115 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 115, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:318",
+      "name": "Number 116",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 116 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 116, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:319",
+      "name": "Number 117",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 117 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 117, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:320",
+      "name": "Number 118",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 118 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 118, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:321",
+      "name": "Number 119",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 119 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 119, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:322",
+      "name": "Number 120",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 120 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 120, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:323",
+      "name": "Number 121",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 121 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 121, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:324",
+      "name": "Number 122",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 122 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 122, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:325",
+      "name": "Number 123",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 123 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 123, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:326",
+      "name": "Number 124",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 124 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 124, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:327",
+      "name": "Number 125",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 125 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 125, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:328",
+      "name": "Number 126",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 126 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 126, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:329",
+      "name": "Number 127",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 127 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 127, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:330",
+      "name": "Number 128",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 128 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 128, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:331",
+      "name": "Number 129",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 129 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 129, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:332",
+      "name": "Number 130",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 130 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 130, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:333",
+      "name": "Number 131",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 131 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 131, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:334",
+      "name": "Number 132",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 132 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 132, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:335",
+      "name": "Number 133",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 133 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 133, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:336",
+      "name": "Number 134",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 134 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 134, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:337",
+      "name": "Number 135",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 135 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 135, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:338",
+      "name": "Number 136",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 136 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 136, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:339",
+      "name": "Number 137",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 137 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 137, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:340",
+      "name": "Number 138",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 138 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 138, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:341",
+      "name": "Number 139",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 139 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 139, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:342",
+      "name": "Number 140",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 140 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 140, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:343",
+      "name": "Number 141",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 141 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 141, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:344",
+      "name": "Number 142",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 142 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 142, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:345",
+      "name": "Number 143",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 143 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 143, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:346",
+      "name": "Number 144",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 144 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 144, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:347",
+      "name": "Number 145",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 145 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 145, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:348",
+      "name": "Number 146",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 146 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 146, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:349",
+      "name": "Number 147",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 147 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 147, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:350",
+      "name": "Number 148",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 148 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 148, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:351",
+      "name": "Number 149",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 149 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 149, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:352",
+      "name": "Number 150",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 150 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 150, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:353",
+      "name": "Number 151",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 151 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 151, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:354",
+      "name": "Number 152",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 152 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 152, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:355",
+      "name": "Number 153",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 153 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 153, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:356",
+      "name": "Number 154",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 154 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 154, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:357",
+      "name": "Number 155",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 155 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 155, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:358",
+      "name": "Number 156",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 156 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 156, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:359",
+      "name": "Number 157",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 157 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 157, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:360",
+      "name": "Number 158",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 158 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 158, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:361",
+      "name": "Number 159",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 159 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 159, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:362",
+      "name": "Number 160",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 160 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 160, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:363",
+      "name": "Number 161",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 161 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 161, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:364",
+      "name": "Number 162",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 162 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 162, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:365",
+      "name": "Number 163",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 163 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 163, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:366",
+      "name": "Number 164",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 164 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 164, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:367",
+      "name": "Number 165",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 165 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 165, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:368",
+      "name": "Number 166",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 166 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 166, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:369",
+      "name": "Number 167",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 167 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 167, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:370",
+      "name": "Number 168",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 168 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 168, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:371",
+      "name": "Number 169",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 169 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 169, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:372",
+      "name": "Number 170",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 170 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 170, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:373",
+      "name": "Number 171",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 171 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 171, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:374",
+      "name": "Number 172",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 172 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 172, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:375",
+      "name": "Number 173",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 173 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 173, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:376",
+      "name": "Number 174",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 174 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 174, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:377",
+      "name": "Number 175",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 175 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 175, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:378",
+      "name": "Number 176",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 176 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 176, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:379",
+      "name": "Number 177",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 177 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 177, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:380",
+      "name": "Number 178",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 178 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 178, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:381",
+      "name": "Number 179",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 179 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 179, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:382",
+      "name": "Number 180",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 180 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 180, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:383",
+      "name": "Number 0",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 0 },
+      "resolvedValuesByMode": { "77:0": { "resolvedValue": 0, "alias": null } },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:584:2929",
+      "name": "Number 226",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:0": 226 },
+      "resolvedValuesByMode": {
+        "77:0": { "resolvedValue": 226, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    }
+  ]
+}

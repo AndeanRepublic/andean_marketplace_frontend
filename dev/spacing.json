@@ -1,0 +1,457 @@
+{
+  "id": "VariableCollectionId:77:998",
+  "name": "Spacing Tokens",
+  "modes": { "77:8": "Desktop", "77:9": "Tablet", "77:10": "Mobile" },
+  "variableIds": [
+    "VariableID:77:999",
+    "VariableID:77:1000",
+    "VariableID:77:1001",
+    "VariableID:77:1002",
+    "VariableID:77:1003",
+    "VariableID:77:1004",
+    "VariableID:77:1005",
+    "VariableID:77:1006",
+    "VariableID:77:1007",
+    "VariableID:77:1008",
+    "VariableID:77:1009",
+    "VariableID:77:1010",
+    "VariableID:77:1011",
+    "VariableID:77:1012",
+    "VariableID:77:1013",
+    "VariableID:77:1014",
+    "VariableID:77:1015",
+    "VariableID:77:1016",
+    "VariableID:77:1017",
+    "VariableID:77:1018",
+    "VariableID:77:1019",
+    "VariableID:77:1020",
+    "VariableID:77:1021",
+    "VariableID:77:1022",
+    "VariableID:77:1023",
+    "VariableID:77:1024",
+    "VariableID:77:1025",
+    "VariableID:77:1026"
+  ],
+  "variables": [
+    {
+      "id": "VariableID:77:999",
+      "name": "Spacing 0",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:8": 0, "77:9": 0, "77:10": 0 },
+      "resolvedValuesByMode": {
+        "77:8": { "resolvedValue": 0, "alias": null },
+        "77:9": { "resolvedValue": 0, "alias": null },
+        "77:10": { "resolvedValue": 0, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:1000",
+      "name": "Spacing 1",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:8": 2, "77:9": 0, "77:10": 0 },
+      "resolvedValuesByMode": {
+        "77:8": { "resolvedValue": 2, "alias": null },
+        "77:9": { "resolvedValue": 0, "alias": null },
+        "77:10": { "resolvedValue": 0, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:1001",
+      "name": "Spacing 2",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:8": 4, "77:9": 4, "77:10": 2 },
+      "resolvedValuesByMode": {
+        "77:8": { "resolvedValue": 4, "alias": null },
+        "77:9": { "resolvedValue": 4, "alias": null },
+        "77:10": { "resolvedValue": 2, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:1002",
+      "name": "Spacing 3",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:8": 8, "77:9": 8, "77:10": 4 },
+      "resolvedValuesByMode": {
+        "77:8": { "resolvedValue": 8, "alias": null },
+        "77:9": { "resolvedValue": 8, "alias": null },
+        "77:10": { "resolvedValue": 4, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:1003",
+      "name": "Spacing 4",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:8": 12, "77:9": 10, "77:10": 10 },
+      "resolvedValuesByMode": {
+        "77:8": { "resolvedValue": 12, "alias": null },
+        "77:9": { "resolvedValue": 10, "alias": null },
+        "77:10": { "resolvedValue": 10, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:1004",
+      "name": "Spacing 5",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:8": 16, "77:9": 12, "77:10": 10 },
+      "resolvedValuesByMode": {
+        "77:8": { "resolvedValue": 16, "alias": null },
+        "77:9": { "resolvedValue": 12, "alias": null },
+        "77:10": { "resolvedValue": 10, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:1005",
+      "name": "Spacing 6",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:8": 20, "77:9": 14, "77:10": 16 },
+      "resolvedValuesByMode": {
+        "77:8": { "resolvedValue": 20, "alias": null },
+        "77:9": { "resolvedValue": 14, "alias": null },
+        "77:10": { "resolvedValue": 16, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:1006",
+      "name": "Spacing 7",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:8": 24, "77:9": 16, "77:10": 16 },
+      "resolvedValuesByMode": {
+        "77:8": { "resolvedValue": 24, "alias": null },
+        "77:9": { "resolvedValue": 16, "alias": null },
+        "77:10": { "resolvedValue": 16, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:1007",
+      "name": "Spacing 8",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:8": 28, "77:9": 20, "77:10": 18 },
+      "resolvedValuesByMode": {
+        "77:8": { "resolvedValue": 28, "alias": null },
+        "77:9": { "resolvedValue": 20, "alias": null },
+        "77:10": { "resolvedValue": 18, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:1008",
+      "name": "Spacing 9",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:8": 32, "77:9": 24, "77:10": 18 },
+      "resolvedValuesByMode": {
+        "77:8": { "resolvedValue": 32, "alias": null },
+        "77:9": { "resolvedValue": 24, "alias": null },
+        "77:10": { "resolvedValue": 18, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:1009",
+      "name": "Spacing 10",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:8": 36, "77:9": 28, "77:10": 20 },
+      "resolvedValuesByMode": {
+        "77:8": { "resolvedValue": 36, "alias": null },
+        "77:9": { "resolvedValue": 28, "alias": null },
+        "77:10": { "resolvedValue": 20, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:1010",
+      "name": "Spacing 11",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:8": 40, "77:9": 28, "77:10": 24 },
+      "resolvedValuesByMode": {
+        "77:8": { "resolvedValue": 40, "alias": null },
+        "77:9": { "resolvedValue": 28, "alias": null },
+        "77:10": { "resolvedValue": 24, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:1011",
+      "name": "Spacing 12",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:8": 44, "77:9": 32, "77:10": 28 },
+      "resolvedValuesByMode": {
+        "77:8": { "resolvedValue": 44, "alias": null },
+        "77:9": { "resolvedValue": 32, "alias": null },
+        "77:10": { "resolvedValue": 28, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:1012",
+      "name": "Spacing 13",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:8": 48, "77:9": 36, "77:10": 28 },
+      "resolvedValuesByMode": {
+        "77:8": { "resolvedValue": 48, "alias": null },
+        "77:9": { "resolvedValue": 36, "alias": null },
+        "77:10": { "resolvedValue": 28, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:1013",
+      "name": "Spacing 14",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:8": 52, "77:9": 38, "77:10": 32 },
+      "resolvedValuesByMode": {
+        "77:8": { "resolvedValue": 52, "alias": null },
+        "77:9": { "resolvedValue": 38, "alias": null },
+        "77:10": { "resolvedValue": 32, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:1014",
+      "name": "Spacing 15",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:8": 56, "77:9": 42, "77:10": 32 },
+      "resolvedValuesByMode": {
+        "77:8": { "resolvedValue": 56, "alias": null },
+        "77:9": { "resolvedValue": 42, "alias": null },
+        "77:10": { "resolvedValue": 32, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:1015",
+      "name": "Spacing 16",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:8": 60, "77:9": 44, "77:10": 32 },
+      "resolvedValuesByMode": {
+        "77:8": { "resolvedValue": 60, "alias": null },
+        "77:9": { "resolvedValue": 44, "alias": null },
+        "77:10": { "resolvedValue": 32, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:1016",
+      "name": "Spacing 17",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:8": 64, "77:9": 48, "77:10": 32 },
+      "resolvedValuesByMode": {
+        "77:8": { "resolvedValue": 64, "alias": null },
+        "77:9": { "resolvedValue": 48, "alias": null },
+        "77:10": { "resolvedValue": 32, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:1017",
+      "name": "Spacing 18",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:8": 68, "77:9": 50, "77:10": 32 },
+      "resolvedValuesByMode": {
+        "77:8": { "resolvedValue": 68, "alias": null },
+        "77:9": { "resolvedValue": 50, "alias": null },
+        "77:10": { "resolvedValue": 32, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:1018",
+      "name": "Spacing 19",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:8": 72, "77:9": 54, "77:10": 32 },
+      "resolvedValuesByMode": {
+        "77:8": { "resolvedValue": 72, "alias": null },
+        "77:9": { "resolvedValue": 54, "alias": null },
+        "77:10": { "resolvedValue": 32, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:1019",
+      "name": "Spacing 20",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:8": 76, "77:9": 56, "77:10": 32 },
+      "resolvedValuesByMode": {
+        "77:8": { "resolvedValue": 76, "alias": null },
+        "77:9": { "resolvedValue": 56, "alias": null },
+        "77:10": { "resolvedValue": 32, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:1020",
+      "name": "Spacing 21",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:8": 80, "77:9": 60, "77:10": 32 },
+      "resolvedValuesByMode": {
+        "77:8": { "resolvedValue": 80, "alias": null },
+        "77:9": { "resolvedValue": 60, "alias": null },
+        "77:10": { "resolvedValue": 32, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:1021",
+      "name": "Spacing 22",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:8": 84, "77:9": 62, "77:10": 32 },
+      "resolvedValuesByMode": {
+        "77:8": { "resolvedValue": 84, "alias": null },
+        "77:9": { "resolvedValue": 62, "alias": null },
+        "77:10": { "resolvedValue": 32, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:1022",
+      "name": "Spacing 23",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:8": 88, "77:9": 66, "77:10": 32 },
+      "resolvedValuesByMode": {
+        "77:8": { "resolvedValue": 88, "alias": null },
+        "77:9": { "resolvedValue": 66, "alias": null },
+        "77:10": { "resolvedValue": 32, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:1023",
+      "name": "Spacing 24",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:8": 92, "77:9": 68, "77:10": 32 },
+      "resolvedValuesByMode": {
+        "77:8": { "resolvedValue": 92, "alias": null },
+        "77:9": { "resolvedValue": 68, "alias": null },
+        "77:10": { "resolvedValue": 32, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:1024",
+      "name": "Spacing 25",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:8": 96, "77:9": 72, "77:10": 32 },
+      "resolvedValuesByMode": {
+        "77:8": { "resolvedValue": 96, "alias": null },
+        "77:9": { "resolvedValue": 72, "alias": null },
+        "77:10": { "resolvedValue": 32, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:1025",
+      "name": "Spacing 26",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:8": 100, "77:9": 76, "77:10": 100 },
+      "resolvedValuesByMode": {
+        "77:8": { "resolvedValue": 100, "alias": null },
+        "77:9": { "resolvedValue": 76, "alias": null },
+        "77:10": { "resolvedValue": 100, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    },
+    {
+      "id": "VariableID:77:1026",
+      "name": "Spacing 27",
+      "description": "",
+      "type": "FLOAT",
+      "valuesByMode": { "77:8": 104, "77:9": 78, "77:10": 100 },
+      "resolvedValuesByMode": {
+        "77:8": { "resolvedValue": 104, "alias": null },
+        "77:9": { "resolvedValue": 78, "alias": null },
+        "77:10": { "resolvedValue": 100, "alias": null }
+      },
+      "scopes": ["ALL_SCOPES"],
+      "hiddenFromPublishing": false,
+      "codeSyntax": {}
+    }
+  ]
+}
